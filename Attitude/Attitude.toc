@@ -1,1 +1,6 @@
-comment
+## Interface: 70100
+## Title: Attitude Loot
+## Notes: Records that loot!
+## Version: 1.0
+Attitude.lua
+
